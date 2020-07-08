@@ -1,0 +1,12 @@
+2020/04/28-13:13:44.946 2cca Reusing MANIFEST /home/dg/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/04/28-13:13:44.946 2cca Recovering log #345
+2020/04/28-13:13:44.968 2cca Reusing old log /home/dg/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/000345.log 
+2020/04/28-13:14:03.782 2d29 Level-0 table #352: started
+2020/04/28-13:14:03.926 2d29 Level-0 table #352: 1365464 bytes OK
+2020/04/28-13:14:03.973 2d29 Delete type=0 #345
+2020/04/28-13:14:04.097 2d29 Compacting 1@1 + 3@2 files
+2020/04/28-13:14:04.307 2d29 Generated table #353@1: 11629 keys, 2161333 bytes
+2020/04/28-13:14:04.541 2d29 Generated table #354@1: 20391 keys, 2220850 bytes
+2020/04/28-13:14:04.691 2d29 Generated table #355@1: 19572 keys, 1409584 bytes
+2020/04/28-13:14:04.691 2d29 Compacted 1@1 + 3@2 files => 5791767 bytes
+2020/04/28-13:14:04.730 2d29 compacted to: files[ 0 0 3 0 0 0 0 ]

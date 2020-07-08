@@ -1,0 +1,37 @@
+
+(skypeforlinux:11445): Gtk-WARNING **: 13:13:41.467: Theme parsing error: gtk.css:1037:16: Expected a number
+
+(skypeforlinux:11445): Gtk-WARNING **: 13:13:41.468: Theme parsing error: gtk.css:1057:11: '' is not a valid color name
+
+(skypeforlinux:11445): Gtk-WARNING **: 13:13:41.468: Theme parsing error: gtk.css:1108:13: '' is not a valid color name
+
+(skypeforlinux:11445): Gtk-WARNING **: 13:13:41.471: Theme parsing error: gtk.css:1289:9: '' is not a valid color name
+
+(skypeforlinux:11445): Gtk-WARNING **: 13:13:41.471: Theme parsing error: gtk.css:1292:9: '' is not a valid color name
+
+(skypeforlinux:11445): Gtk-WARNING **: 13:13:41.472: Theme parsing error: gtk.css:1496:13: '' is not a valid color name
+(electron) 'setZoomLevel function' is deprecated and will be removed. Please use 'zoomLevel property' instead.
+(electron) 'getZoomLevel function' is deprecated and will be removed. Please use 'zoomLevel property' instead.
+Error occurred in handler for 'keychain:get-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:get-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:delete-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:delete-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+(electron) 'setBadgeCount function' is deprecated and will be removed. Please use 'badgeCount property' instead.
+(electron) 'setResizable function' is deprecated and will be removed. Please use 'resizable property' instead.
+(electron) 'setMaximizable function' is deprecated and will be removed. Please use 'maximizable property' instead.
+Error occurred in handler for 'keychain:get-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:get-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:get-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:get-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:delete-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:set-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:set-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:delete-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:delete-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:get-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)

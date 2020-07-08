@@ -1,0 +1,53 @@
+# Global settings
+set mail_check=90
+set timeout=15
+set send_charset="us-ascii:utf-8"
+set editor=vim
+set mailcap_path=~/.config/neomutt/mailcap
+set header_cache=~/.cache/neomutt/messages
+set message_cachedir=~/.cache/neomutt/messages
+set print_command="/usr/bin/muttprint %s -p Epson_Stylus_SX420W"
+set pager_index_lines=10
+set pager_context=3
+set pager_stop=yes
+set date_format="%y-%m-%d %T"
+set index_format="%2C | %Z [%d] %-30.30F (%-4.4c) %s"
+set sort = threads
+set sort_aux = reverse-last-date-received
+set status_chars = " *%A"
+set status_format = "[ Folder: %f ] [%r%m messages%?n? (%n new)?%?d? (%d to delete)?%?t? (%t tagged)? ]%>─%?p?( %p postponed )?"
+
+auto_view text/html
+alternative_order text/plain text/html
+
+## Abook
+set query_command= "abook --mutt-query '%s'"
+macro index,pager  a "<pipe-message>abook --add-email-quiet<return>" "Add this sender to Abook"
+bind editor        <Tab> complete-query
+
+# Default account
+source '~/.config/neomutt/dgalizia@yandex.ru'
+
+## Shortcuts
+
+macro index 'c' '<change-folder>?<change-dir><home>^K=<enter>'
+
+source sidebar.rc
+# Make the Sidebar visible by default
+#set sidebar_visible
+# Use 'B' to switch the Sidebar on and off
+#bind index,pager B sidebar-toggle-visible
+
+source dracula.muttrc
+
+# some sane vim-like keybindings
+bind index,pager k previous-entry
+bind index,pager j next-entry
+bind index,pager g noop
+bind index,pager \Cu half-up
+bind index,pager \Cd half-down
+bind pager gg top
+bind index gg first-entry
+bind pager G bottom
+bind index G last-entry
+

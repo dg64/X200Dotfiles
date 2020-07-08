@@ -1,0 +1,572 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/dg/
+	..
+1554149092
+'b
+	/home/dg/bin/
+	..
+1554149092
+'h
+	/home/dg/
+	..
+1554149092
+
+# Bookmarks:
+
+# TUI:
+al
+q1
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/dg/curseradio
+	build
+1
+d/home/dg/curseradio/build
+	..
+0
+d/home/dg/curseradio
+	build
+1
+d/home/dg/curseradio/build
+	bdist.linux-x86_64
+1
+d/home/dg/curseradio/build/bdist.linux-x86_64
+	..
+0
+d/home/dg/curseradio/build
+	..
+0
+d/home/dg/curseradio
+	..
+0
+d/home/dg
+	ArtDecoWallpapers
+1
+d/home/dg/ArtDecoWallpapers
+	..
+0
+d/home/dg
+	polybar
+16
+d/home/dg/polybar
+	..
+0
+d/home/dg
+	polybar
+16
+d/home/dg/polybar
+	..
+0
+d/home/dg
+	..
+0
+d/home
+	..
+0
+d/
+	home
+4
+d/home
+	dg
+1
+d/home/dg
+	UnitTest3-8-Solution.xlsx
+16
+d/home
+	dg
+1
+d/
+	home
+4
+d/home
+	dg
+1
+d/home/dg
+	Wallpapers
+4
+d/home/dg/Wallpapers
+	new_york_city_top_view_87254_1920x1080.jpg
+16
+d/home/dg
+	Wallpapers
+4
+d/home
+	dg
+1
+d/home/dg
+	archlinux-artwork
+16
+d/home/dg/archlinux-artwork
+	..
+0
+d/home/dg
+	..
+0
+d/home
+	..
+0
+d/
+	run
+13
+d/run
+	media
+9
+d/run/media
+	dg
+1
+d/run/media/dg
+	KINGSTON
+1
+d/run/media/dg/KINGSTON
+	Business Management
+8
+d/run/media/dg/KINGSTON/Business Management
+	Test03 - Motivation and Marketing.docx
+4
+d/run/media/dg/KINGSTON
+	Business Management
+8
+d/run/media/dg
+	KINGSTON
+1
+d/run/media
+	dg
+1
+d/run
+	..
+0
+d/home/dg
+	..
+0
+d/home/dg/Downloads
+	..
+0
+d/home/dg
+	..
+0
+d/home
+	dg
+1
+d/
+	home
+4
+d/home
+	dg
+1
+d/home/dg
+	.icons
+9
+d/home/dg/.icons
+	default
+1
+d/home/dg/.icons/default
+	..
+0
+d/home/dg/.icons
+	default
+1
+d/home/dg
+	.local
+11
+d/home/dg/.local
+	share
+1
+d/home/dg/.local/share
+	fonts
+4
+d/home/dg/.local/share/fonts
+	NerdFonts
+1
+d/home/dg/.local/share/fonts/NerdFonts
+	..
+0
+d/home/dg/.local/share/fonts
+	NerdFonts
+1
+d/home/dg/.local/share
+	fonts
+4
+d/home/dg/.local
+	share
+1
+d/home/dg
+	.vimrc
+16
+d/mnt/usb
+	..
+0
+d
+
+# Right window history (oldest to newest):
+D/run/media/dg/KINGSTON/Business Management/11DP
+	..
+0
+D/run/media/dg/KINGSTON/Business Management
+	10DP
+1
+D/run/media/dg/KINGSTON/Business Management/10DP
+	SL
+2
+D/run/media/dg/KINGSTON/Business Management/10DP/SL
+	..
+0
+D/run/media/dg/KINGSTON/Business Management/10DP
+	HL
+1
+D/run/media/dg/KINGSTON/Business Management/10DP/HL
+	..
+0
+D/run/media/dg/KINGSTON/Business Management/10DP
+	SL
+2
+D/run/media/dg/KINGSTON/Business Management/10DP/SL
+	..
+0
+D/run/media/dg/KINGSTON/Business Management/10DP
+	HL
+1
+D/run/media/dg/KINGSTON/Business Management/10DP/HL
+	WeeklyReport_РоманХлопов.docx
+5
+D/run
+	wpa_supplicant
+16
+D/
+	run
+13
+D/run
+	media
+9
+D/run/media
+	dg
+1
+D/run/media/dg
+	KINGSTON
+1
+D/run/media/dg/KINGSTON
+	Business Management
+9
+D/run/media/dg/KINGSTON/Business Management
+	Slides
+8
+D/run/media/dg/KINGSTON/Business Management/Slides
+	Business Management - Unit 4-1.pptx
+21
+D/run
+	systemd
+8
+D/run/systemd
+	..
+0
+D/run
+	media
+4
+D/run/media
+	dg
+1
+D/run/media/dg
+	KINGSTON
+1
+D/run/media/dg/KINGSTON
+	Business Management
+9
+D/run/media/dg/KINGSTON/Business Management
+	Slides
+8
+D/run/media/dg/KINGSTON/Business Management/Slides
+	..
+0
+D/run/media/dg/KINGSTON/Business Management
+	11DP
+2
+D/run/media/dg/KINGSTON/Business Management/11DP
+	..
+0
+D/run/media/dg/KINGSTON/Business Management
+	10DP
+1
+D/run/media/dg/KINGSTON/Business Management/10DP
+	SL
+2
+D/run/media/dg/KINGSTON/Business Management/10DP/SL
+	..
+0
+D/run/media/dg/KINGSTON/Business Management/10DP
+	HL
+1
+D/run/media/dg/KINGSTON/Business Management/10DP/HL
+	WeeklyReport_АнастасияСмирнова.docx
+6
+D/run
+	..
+0
+D/
+	media
+8
+D/media
+	..
+0
+D/
+	run
+13
+D/run
+	media
+9
+D/run/media
+	dg
+1
+D/run/media/dg
+	KINGSTON
+1
+D/run/media/dg/KINGSTON
+	Business Management
+8
+D/run/media/dg/KINGSTON/Business Management
+	11DP
+2
+D/run/media/dg/KINGSTON/Business Management/11DP
+	WeeklyReport_ЗаремаКостоева.docx
+3
+D/run/media/dg/KINGSTON/Business Management
+	11DP
+2
+D/run/media/dg/KINGSTON/Business Management/11DP
+	students.txt
+6
+D/run/media/dg/KINGSTON/Business Management
+	11DP
+2
+D/run/media/dg/KINGSTON/Business Management/11DP
+	students.txt
+6
+D/run/media/dg/KINGSTON/Business Management
+	user-contrib
+9
+D/run/media/dg/KINGSTON/Business Management/user-contrib
+	project_readme.md
+3
+D/run/media/dg/KINGSTON/Business Management
+	10DP
+1
+D/run/media/dg/KINGSTON/Business Management/10DP
+	SL
+2
+D/run/media/dg/KINGSTON/Business Management/10DP/SL
+	..
+0
+D/run/media/dg/KINGSTON/Business Management/10DP
+	SL
+2
+D/run/media/dg/KINGSTON/Business Management
+	Slides
+8
+D/run/media/dg/KINGSTON/Business Management/Slides
+	Business Management - Unit 3-6.pptx
+19
+D/run/media/dg/KINGSTON/Business Management
+	10DP
+1
+D/run/media/dg/KINGSTON/Business Management/10DP
+	SL
+2
+D/run/media/dg/KINGSTON/Business Management/10DP/SL
+	WeeklyReport_КонстантинШашков.docx
+10
+D/run/media/dg/KINGSTON/Business Management/10DP
+	HL
+1
+D/run/media/dg/KINGSTON/Business Management/10DP/HL
+	WeeklyReport_РоманХлопов.docx
+10
+D/run/media/dg/KINGSTON/Business Management/10DP
+	HL
+1
+D/run/media/dg/KINGSTON/Business Management
+	BM Mock Exam Paper 1 2019
+3
+D/run/media/dg/KINGSTON/Business Management/BM Mock Exam Paper 1 2019
+	Paper-1-FINAL-NOTES.pdf
+5
+D/run/media/dg/KINGSTON/Business Management
+	BusinessManagement_TestUnit_4_5.docx
+4
+D/run
+	..
+0
+D/
+	home
+4
+D/home
+	dg
+1
+D/home/dg
+	Wallpapers
+13
+D/home/dg/Wallpapers
+	..
+0
+D/home/dg
+	Downloads
+12
+D/home/dg/Downloads
+	..
+0
+D/home/dg
+	.config
+2
+D/home/dg/.config
+	neomutt
+16
+D/home/dg/.config/neomutt
+	..
+0
+D/home/dg/.config
+	neomutt
+16
+D/home/dg
+	Downloads
+16
+D/home/dg/Downloads
+	helix_conky_by_figman-d3dgs8h.zip
+13
+D/home/dg
+	.config
+2
+D/home/dg/.config
+	neomutt
+16
+D/home/dg/.config/neomutt
+	neomuttrc
+7
+D/home/dg/.config
+	neomutt
+16
+D/home/dg
+	.neomuttrc
+4
+D/home/dg/.neomuttrc
+	neomuttrc
+1
+D/run/media/dg/KINGSTON
+	Business Management
+8
+D/run/media/dg/KINGSTON/Business Management
+	Slides
+8
+D/run/media/dg/KINGSTON/Business Management/Slides
+	Business Management - Unit 3-7.pptx
+19
+D/home/dg
+	.neomuttrc
+4
+D/run/media/dg/KINGSTON
+	Italian
+16
+D/run/media/dg/KINGSTON/Italian
+	..
+0
+D/run
+	..
+0
+D/home/dg
+	.attachments
+2
+D/home/dg/.attachments
+	report.docx
+1
+D/run/media/dg/KINGSTON
+	Business Management
+6
+D/run/media/dg/KINGSTON/Business Management
+	Slides
+8
+D/run/media/dg/KINGSTON/Business Management/Slides
+	..
+0
+D/run/media/dg/KINGSTON/Business Management
+	10DP
+1
+D/run
+	..
+0
+D/
+	run
+13
+D/home/dg
+	ConfigX200
+34
+D/home/dg/ConfigX200
+	.urlview
+9
+D
+
+# Command line history (oldest to newest):
+:colorscheme darkdesert
+:colorscheme solarized-dark
+:colorschem
+:colorscheme 
+:colorscheme
+:eviev
+:eview
+:!q
+:cd ~
+:cd /run/media/dg/KINGSTON/
+:cd Downloads
+:cd
+:mkdir ConfigX200
+:filepreview
+:fileview
+:help
+:lpreview
+:preview
+:view
+:cd /mnt/usb
+:q
+
+# Search history (oldest to newest):
+/new
+/r
+/media
+/user
+/10
+/Sli
+/Do
+/sol
+/solu
+/config
+/Slid
+
+# Prompt history (oldest to newest):
+pneomuttrc_one_account
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/dg/.vimrc
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/dg/.local/share/vifm/Trash/000_q
+	/home/dg/q
+t/home/dg/.local/share/vifm/Trash/000_60-icomoon-feather.conf
+	/home/dg/60-icomoon-feather.conf
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].0
+]F
+s0

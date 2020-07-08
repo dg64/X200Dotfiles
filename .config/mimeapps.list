@@ -1,0 +1,7 @@
+[Added Associations]
+application/pdf=org.gnome.Evince.desktop;
+audio/mpeg=mpv.desktop;
+image/jpeg=gimp.desktop;
+
+[Default Applications]
+application/pdf=org.gnome.Evince.desktop

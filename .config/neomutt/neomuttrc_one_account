@@ -1,0 +1,24 @@
+set folder = "imaps://dgalizia@yandex.ru@imap.yandex.ru:993/"
+set smtp_url = "smtps://dgalizia@yandex.ru@smtp.yandex.ru:465/"
+
+set imap_pass = "domenico64"
+set smtp_pass = "domenico64"
+
+set from = "dgalizia@yandex.ru"
+set realname = "Domenico Galizia"
+
+set spoolfile = "+INBOX"
+set record = "+Sent"
+set trash= "+Trash"
+set postponed = "+Drafts"
+set imap_check_subscribed
+
+mailboxes =INBOX  =Sent =Trash =Drafts
+set mail_check=90
+set timeout=15
+
+source sidebar.rc
+# Make the Sidebar visible by default
+set sidebar_visible
+# Use 'B' to switch the Sidebar on and off
+bind index,pager B sidebar-toggle-visible

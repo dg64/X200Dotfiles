@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<profiles>
+  <profile active="TRUE">
+    <profile_name>dg</profile_name>
+    <author_name>dg</author_name>
+    <author_email>dgalizia@yandex.ru</author_email>
+    <language_name>English</language_name>
+    <language_code>en</language_code>
+    <charset>UTF-8</charset>
+    <encoding>8bit</encoding>
+    <group_email>.</group_email>
+    <plural_forms>nplurals=2; plural=(n!= 1)</plural_forms>
+  </profile>
+</profiles>
