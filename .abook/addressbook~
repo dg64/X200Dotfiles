@@ -1,0 +1,243 @@
+# abook addressbook file
+
+[format]
+program=abook
+version=0.6.1
+
+
+[0]
+name=Ирина Гладкова
+email=gladkova@integration21.ru
+
+[1]
+name=Владимир Емануилов
+email=ibdp@mail.ru
+
+[2]
+name=Александр Ермаков
+email=e_av@list.ru
+
+[3]
+name=Svetlana Kulichenko
+email=kulichenkos@gmail.com
+
+[4]
+name=Ирина Гладкова
+email=otchet@integration21.ru
+
+[5]
+name=Юлия Рузанова
+email=ruzanova@integration21.ru, ruzanova71@mail.ru
+
+[6]
+name=Anna Onufrieva
+email=anna.onufrieva@gmail.com
+
+[7]
+name=Екатерина Зеня
+email=calixaren@yandex.ru
+
+[8]
+name=Domenico Galizia
+email=dgalizia@yandex.ru
+
+[9]
+name=В. Г. Дубровина
+email=k107@mail.ru
+
+[10]
+name=Ирина
+email=irina5-71@mail.ru
+
+[11]
+name=Яна
+email=milany06_90@mail.ru
+
+[12]
+name=Яна
+email=milany06_09@mail.ru
+
+[13]
+name=Доменико Галициа
+email=domenico@integration21.ru
+
+[14]
+name=Руслан Абкеримов
+email=r.abkerimov@bk.ru
+
+[15]
+name=amine ben rejeb
+email=coachamine@hotmail.fr
+
+[16]
+name=Анна Кочар
+email=annakochar@rambler.ru
+
+[17]
+name=sergei mostovoi
+email=smostovoi@mail.ru
+
+[18]
+name=Ra?l Cejudo
+email=rcejudo@mail.ru
+
+[19]
+name=Archie Tad
+email=mailmeup@mail.ru
+
+[20]
+name=Алёна Нураева
+email=desy74@mail.ru
+
+[21]
+name=Яна Миленина
+email=milenina@integration21.ru
+
+[22]
+name=mekhtieva@integration21.ru
+email=mekhtieva@integration21.ru
+
+[23]
+name=Daniil Monakhov
+email=dan.monakhov@gmail.com
+
+[24]
+name=Екатерина Юрьевна Алексеева
+email=katyalunkova@mail.ru
+
+[25]
+name=Александр Аркадьевич Баламутов
+email=balamutov64@yandex.ru
+
+[26]
+name=Антонина Васильевна Владимирова
+email=vladimirova.a.v@yandex.ru
+
+[27]
+name=Sergey Derry
+email=derry@integration21.ru
+
+[28]
+name=Anastasia Zaburova
+email=a.zaburova@integration21.ru
+
+[29]
+name=Ekaterina Zenia
+email=zenya@integration21.ru
+
+[30]
+name=Марина Борисовна Зубкова
+email=marinazub@yandex.ru
+
+[31]
+name=Ярослав Лебедев
+email=lebedev@integration21.ru
+
+[32]
+name=Yanis Marandidis
+email=y.marandidis@integration21.ru
+
+[33]
+name=Надежда Александровна Мартемьянова
+email=martemiyanova@integration21.ru
+
+[34]
+name=Lenny Tevlin
+email=ltevlin@gmail.com
+
+[35]
+name=Зарема Костоева
+email=kostoeva01@gmail.com
+
+[36]
+name=Тимур Исмаилов
+email=naushnik440@gmail.com
+
+[37]
+name=Владимир Кругляков
+email=vovkakrug2001@gmail.com
+
+[38]
+name=Анастасиа Когатко
+email=nkogatko@gmail.com
+
+[39]
+name=Дарья Лапко
+email=dasha.lapko@yandex.ru
+
+[40]
+name=Константин Шашков
+email=k.shashkov@list.ru, konstantin.a.shashkov@yandex.ru
+
+[41]
+name=Александр Яколев
+email=alexander1509@yandex.ru
+
+[42]
+name=Валерия Жирнова
+email=valeriyazh01@mail.ru
+
+[43]
+name=Роман Хлопов
+email=roman.khlopov@mail.ru
+
+[44]
+name=Евдокйя Попова
+email=dunia.popova@yandex.ru, popova.evdokiia@gmail.com
+
+[45]
+name=Анастасия Смирнова
+email=ms.anastasia25@mail.ru
+
+[46]
+name=Кирилл Барков
+email=barkovk@gmail.com, barkovkd@icloud.com
+
+[47]
+name=Ruzanova
+email=ruzanova71@mail.ru
+
+[48]
+name=nick_231293@mail.ru
+email=nick_231293@mail.ru
+
+[49]
+name=Кирилл Барков
+email=barkovkd@gmail.com
+
+[50]
+name=Татьяна Врублевская
+email=vrublevskaya@integration21.ru
+
+[51]
+name=Olga Lyutikova
+email=o.lyutikova@yandex.ru
+
+[52]
+name=Виктория Дубровина
+email=dubrovina@integration21.ru
+
+[53]
+name=Анастасия Белова
+email=a.belova@integration21.ru
+
+[54]
+name=Kristina Moavad
+email=k.moavad@integration21.ru
+
+[55]
+name=Olga Shabanova
+email=olga-a-shabanova@yandex.ru
+
+[56]
+name=Мария Кречетова
+email=krechetova@integration21.ru
+
+[57]
+name=Кевин
+email=kevininmoscow@mail.ru
+
+[58]
+name=Марина Павлова
+email=marinap00@bk.ru
+
